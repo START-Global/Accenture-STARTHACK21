@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/49346313/111615765-65c91380-87e1-11eb-9bf4-464b3f84c166.png)
 
 ### Case Introduction
-#### Hacking from home
+#### Hacking-from-Home
 
 Most of us at Accenture have been working from home due to the pandemic. Working on projects while managing your household has been a juggling act for all of us. 
 
@@ -79,8 +79,8 @@ For questions around our challenge, tech support or just to chat please don't he
 ![image](https://user-images.githubusercontent.com/49346313/111613740-1eda1e80-87df-11eb-8333-e97cc8a8f4bc.png)
 
 ### Case Pitch
-[Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Challenge_Pitch.pdf)
+📄 [Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Challenge_Pitch.pdf)
 
 ### Deep Dive Slides
-[Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Deep_Dive.pdf)
+📄 [Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Deep_Dive.pdf)
 
