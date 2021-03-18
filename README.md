@@ -79,7 +79,8 @@ For questions around our challenge, tech support or just to chat please don't he
 ![image](https://user-images.githubusercontent.com/49346313/111613740-1eda1e80-87df-11eb-8333-e97cc8a8f4bc.png)
 
 ### Case Pitch
-TBC
+[Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Challenge_Pitch.pdf)
 
 ### Deep Dive Slides
-TBC
+[Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Deep_Dive.pdf)
+
