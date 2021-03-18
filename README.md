@@ -35,6 +35,9 @@ At Accenture our primary goal is to solve challenges for our clients. In order t
 
 ### Resources
 #### 300$ Vouchers for AWS cloud environments
+
+<img src="https://user-images.githubusercontent.com/49346313/111621182-f60a5700-87e7-11eb-86f9-1ab2fcfe5616.png" alt="AWS" height="75"/> 
+
 For the development of your solutions, we offer you credit vouchers for AWS cloud environments! Please reach out to Joel Aihende on Discord to get your voucher for your AWS account. 
 
 #### Learning Resources - Accenture Technology Vision 
@@ -76,11 +79,11 @@ For questions around our challenge, tech support or just to chat please don't he
 * 20:40 - 21:00, Deep Dive Nr.2 Live
 
 ### Prize
-![image](https://user-images.githubusercontent.com/49346313/111613740-1eda1e80-87df-11eb-8333-e97cc8a8f4bc.png)
+![image](https://user-images.githubusercontent.com/49346313/111620937-a62b9000-87e7-11eb-945b-e4edd879984b.png)
 
 ### Case Pitch
-📄 [Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Challenge_Pitch.pdf)
+📄 &nbsp;&nbsp;&nbsp;[Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Challenge_Pitch.pdf)
 
 ### Deep Dive Slides
-📄 [Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Deep_Dive.pdf)
+📄 &nbsp;&nbsp;&nbsp;[Link to Deck](https://github.com/START-Global/Accenture-STARTHACK21/blob/main/Accenture_Future_of_Work_Deep_Dive.pdf)
 
