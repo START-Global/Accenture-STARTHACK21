@@ -33,36 +33,34 @@ At Accenture our primary goal is to solve challenges for our clients. In order t
 
 ![image](https://user-images.githubusercontent.com/49346313/111611780-1ed91f00-87dd-11eb-9f1a-c9a1d9b4d655.png)
 
-### Resources
-#### 300$ Vouchers for AWS cloud environments
-
-<img src="https://user-images.githubusercontent.com/49346313/111621182-f60a5700-87e7-11eb-86f9-1ab2fcfe5616.png" alt="AWS" height="75"/> 
+### Resources 
+<img src="https://user-images.githubusercontent.com/49346313/111627865-d70fc300-87ef-11eb-8bd8-37ec69908121.png" alt="AWS" height="20"/>  &nbsp; **300$ Vouchers for AWS cloud environments**
 
 For the development of your solutions, we offer you credit vouchers for AWS cloud environments! Please reach out to Joel Aihende on Discord to get your voucher for your AWS account. 
 
-#### Learning Resources - Accenture Technology Vision 
+📚 &nbsp;&nbsp;**Learning Resources - Accenture Technology Vision*** 
 * [Anywhere, Everywhere](https://www.accenture.com/us-en/insights/technology/technology-trends-2021#block-section-6)
 * [Virtual Work Facts & Figures (Trend 4, p.65)](https://www.accenture.com/us-en/insights/technology/_acnmedia/Thought-Leadership-Assets/PDF-3/Accenture-Tech-Vision-2021-Full-Report.pdf)
 
 ### Judging Criteria
 
-👩‍🎨&nbsp;&nbsp;&nbsp; **Vision / Innovation / Creativity**
+👩‍🎨&nbsp;&nbsp; **Vision / Innovation / Creativity**
 
 * Wow-factor 
 * Is it a reflection of a diverse team’s ingenuity? 
 * Is it something a human being would feel delighted, excited, empowered, or even relieved to use?
 
-💡&nbsp;&nbsp;&nbsp; **Value / Realistic usability**
+💡&nbsp;&nbsp; **Value / Realistic usability**
 
 * How likely am I to use it in my day-to-day life? 
 * How many people can this solution reach? 
 
-🤝&nbsp;&nbsp;&nbsp; **Teamwork** 
+🤝&nbsp;&nbsp; **Teamwork** 
 
 * How effectively did you collaborate?
 * Communication, Ideation & Management Style
 
-**💻&nbsp;&nbsp;&nbsp; Technologies / Methodologies** 
+**💻&nbsp;&nbsp; Technologies / Methodologies** 
 
 * Design thinking
 * Code quality & elegance
@@ -74,9 +72,9 @@ For questions around our challenge, tech support or just to chat please don't he
 ![image](https://user-images.githubusercontent.com/49346313/111613657-09fd8b00-87df-11eb-8cec-4a6cb14ac983.png)
 
 ### Time Slots
-* 19:20, Accenture 5 min. Case Pitch Live
-* 20:15 - 20:35, Deep Dive Nr.1 Live 
-* 20:40 - 21:00, Deep Dive Nr.2 Live
+* **Friday 19:20**, Accenture 5 min. Case Pitch Live
+* **Friday 20:15 - 20:35**, Deep Dive Nr.1 Live 
+* **Friday 20:40 - 21:00**, Deep Dive Nr.2 Live
 
 ### Prize
 ![image](https://user-images.githubusercontent.com/49346313/111620937-a62b9000-87e7-11eb-945b-e4edd879984b.png)
